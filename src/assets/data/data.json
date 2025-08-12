@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Waitomo Glowworm Caves",
+    "country": "New Zealand",
+    "continent": "Oceania",
+    "description": "A subterranean network of limestone caverns famous for its magical boat rides under twinkling glowworm-lit ceilings.",
+    "image": "/images/waitomo.jpg"
+  },
+  {
+    "id": 2,
+    "name": "The Door to Hell",
+    "country": "Turkmenistan",
+    "continent": "Asia",
+    "description": "A continuously burning gas crater in the Karakum Desert, captivating adventurous travelers with its otherworldly glow.",
+    "image": "/images/hell.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Underwater Waterfall",
+    "country": "Mauritius",
+    "continent": "Africa",
+    "description": "An incredible illusion off the island’s coast, appearing as if water cascades into a vast underwater abyss.",
+    "image": "/images/waterfall.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Fly Geyser",
+    "country": "USA",
+    "continent": "North America",
+    "description": "A colorful, continuously spouting geothermal formation with vibrant mineral deposits on a private Nevada ranch.",
+    "image": "/images/geyser.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Kjeragbolten",
+    "country": "Norway",
+    "continent": "Europe",
+    "description": "A legendary hiking destination where brave visitors can stand on a rock suspended between two cliffs.",
+    "image": "/images/norway.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Socotra Island",
+    "country": "Yemen",
+    "continent": "Asia",
+    "description": "A remote and biologically diverse island, known for its unique flora and striking desert landscapes.",
+    "image": "/images/socotra.jpg"
+  }
+]
