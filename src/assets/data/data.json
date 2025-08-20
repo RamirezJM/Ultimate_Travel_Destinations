@@ -46,5 +46,21 @@
     "continent": "Asia",
     "description": "A remote and biologically diverse island, known for its unique flora and striking desert landscapes.",
     "image": "images/socotra.jpg"
+  },
+    {
+    "id": 7,
+    "name": "Giant's Causeway",
+    "country": "Northern Ireland",
+    "continent": "Europe",
+    "description": "A UNESCO World Heritage Site featuring striking hexagonal basalt columns along the scenic Northern Irish coastline.",
+    "image": "images/giant.jpg"
+  },
+    {
+    "id": 8,
+    "name": "The Wave",
+    "country": "USA",
+    "continent": "North America",
+    "description": "A sought-after hiking spot in the Coyote Buttes area, prized for its surreal, undulating sandstone formations.",
+    "image": "images/wave.jpg"
   }
 ]
